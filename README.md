@@ -1,2 +1,2 @@
 # leetcode
-练习算法
+LeetCode 算法手册

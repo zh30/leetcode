@@ -1,0 +1,16 @@
+[book]
+authors = ["He Zhang"]
+language = "en"
+multilingual = false
+src = "src"
+title = "LeetCode 算法手册"
+description = "LeetCode Algorithm Handbook"
+
+[output.html]
+theme = "theme"
+mathjax-support = true
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/zhanghecool/leetcode"
+
+[output.html.playpen]
+editable = true
